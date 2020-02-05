@@ -1,7 +1,7 @@
 
 # Sistema para obtener el clima en una locación
 
-## Curso Node JS Udemy
+## Curso Node JS
 
 Recordar ejecutar npm install para instalar las librerías
 
